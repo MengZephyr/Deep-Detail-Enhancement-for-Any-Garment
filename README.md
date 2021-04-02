@@ -7,7 +7,7 @@ This repository contains the implementation of [Deep Detail Enhancment for Any G
 
 Ref. to [http://geometry.cs.ucl.ac.uk/projects/2021/DeepDetailEnhance/paper_docs/DeepDetailEnhance.pdf]
 
-We provide Google drive links for downloading the training data, the network checkpoint and two multi-layer garment models:
+We provide Google drive links for downloading the training data, the network checkpoint and two multi-layer garment models (Marvelouse Desigener):
 >[Training data](https://drive.google.com/drive/folders/1-rX-g4rSbR8DwKpYJ0IUTKBL3l6hS1qz?usp=sharing) <br />
 >[Checkpoint](https://drive.google.com/drive/folders/1NvJJDQ_ZtKsq107zjMmsnYuH8agYnl8y?usp=sharing) <br />
 >[MD Model](https://drive.google.com/drive/folders/10pFbIgaIkDIUMhvqpTtFboeCa7rUv6ve?usp=sharing)
