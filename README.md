@@ -16,7 +16,7 @@ We provide Google drive links for downloading the training data, the network che
 This folder contains the pytorch implemetation of deep detail enhancement network and the material classifier. In order to generalize our approach across different 2D parameterizations, we adopt a patch-based approach. Instead of operating with complete normal maps, we use patches cut from the normal maps as input and output of our network. If you want to retrain the DDE_model, please first run "PatchPrepare.py" on the complete normal maps to generate random cropped patches as training data.
 
 ## ./geo_prepare and ./utils
-This folder contains code for the alginment of different resolution garment geometry. The C++ code in ./geo_prepare depends on the library of OpenCV and embree.
+This folder contains code to alginment different resolution garment geometries. The C++ code in ./geo_prepare depends on the library of OpenCV and embree.
 
 ## Citation
 If you use our code or model, please cite our paper:
