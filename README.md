@@ -3,7 +3,7 @@
 ## Introduction
 This repository contains the implementation of [Deep Detail Enhancment for Any Garment](http://geometry.cs.ucl.ac.uk/projects/2021/DeepDetailEnhance/) proposed in Eurographics 2021
 
-![Image text](https://github.com/MengZephyr/Deep-Detail-Enhancement-for-Any-Garment/blob/master/overviewNew2Low.pdf)
+![Image text](https://github.com/MengZephyr/Deep-Detail-Enhancement-for-Any-Garment/blob/master/overview.png)
 
 Ref. to [http://geometry.cs.ucl.ac.uk/projects/2021/DeepDetailEnhance/paper_docs/DeepDetailEnhance.pdf]
 
