@@ -21,10 +21,13 @@ This folder contains code to alginment different resolution garment geometries. 
 ## Citation
 If you use our code or model, please cite our paper:
 
-  @article{zhang2020deep,
-     title={Deep Detail Enhancement for Any Garment},
-    author={Zhang, Meng and Wang, Tuanfeng and Ceylan, Duygu and Mitra, Niloy J},
-    journal={arXiv e-prints},
-    pages={arXiv--2008},
-    year={2020}
-  }
+  @inproceedings{zhang2021deep,
+  title={Deep detail enhancement for any garment},
+  author={Zhang, Meng and Wang, Tuanfeng and Ceylan, Duygu and Mitra, Niloy J},
+  booktitle={Computer Graphics Forum},
+  volume={40},
+  number={2},
+  pages={399--411},
+  year={2021},
+  organization={Wiley Online Library}
+}
